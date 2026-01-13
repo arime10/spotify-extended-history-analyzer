@@ -14,8 +14,8 @@ Unlock the hidden patterns in your music journey. This toolkit transforms raw Sp
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/arime10/spotify-loyalty-insights.git
-    cd spotify-loyalty-insights
+    git clone [https://github.com/arime10/spotify-extended-history-analyzer.git](https://github.com/arime10/spotify-extended-history-analyzer.git)
+    cd spotify-extended-history-analyzer
     ```
 2.  **Install Dependencies:**
     This project requires Python and the `pandas` library.
@@ -58,3 +58,4 @@ The project is designed to be used in a Jupyter Notebook (`.ipynb`) or as standa
 ---
 
 *Developed with a focus on data quality and music loyalty analysis.*
+
